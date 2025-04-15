@@ -1,4 +1,4 @@
-# Alura Store
+# Alura Store 
 
 Este proyecto realiza un análisis exhaustivo de las ventas de varias tiendas en línea, con el objetivo de ayudar al señor Juan a decidir cuál tienda sería la más adecuada para invertir en un nuevo negocio. A través de la evaluación de aspectos como facturación, categorías populares, calificaciones de clientes, productos más y menos vendidos, y costos de envío, el análisis proporciona insights clave que pueden influir en la decisión de inversión.
 
