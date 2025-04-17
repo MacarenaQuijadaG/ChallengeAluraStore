@@ -20,8 +20,12 @@ El propósito de este análisis es proporcionar una evaluación comparativa de l
 
 ## Instrucciones para Ejecutar el Notebook
 
-Para ejecutar el análisis, sigue los siguientes pasos:
+Para ejecutar este notebook en Google Colab y cargar tus propios archivos, sigue estos pasos:
 
+1. Abre [Google Colab](https://colab.research.google.com).
+2. Crea un nuevo notebook o abre uno existente.
+3. Aparecerá una ventana para que selecciones el archivo desde tu computador.
+4. Selecciónalo y se subirá al entorno de Colab.
 
 ## Ejemplos de Gráficos e Insights Obtenidos
 A continuación se presentan algunos ejemplos de los gráficos generados durante el análisis:
